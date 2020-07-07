@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bitcoin-dashboard-context-hooks/static/css/main.7c5b2be1.chunk.css",
+    "main.js": "/react-bitcoin-dashboard-context-hooks/static/js/main.2449271f.chunk.js",
+    "main.js.map": "/react-bitcoin-dashboard-context-hooks/static/js/main.2449271f.chunk.js.map",
+    "runtime-main.js": "/react-bitcoin-dashboard-context-hooks/static/js/runtime-main.f54eaf14.js",
+    "runtime-main.js.map": "/react-bitcoin-dashboard-context-hooks/static/js/runtime-main.f54eaf14.js.map",
+    "static/js/2.9511cdfe.chunk.js": "/react-bitcoin-dashboard-context-hooks/static/js/2.9511cdfe.chunk.js",
+    "static/js/2.9511cdfe.chunk.js.map": "/react-bitcoin-dashboard-context-hooks/static/js/2.9511cdfe.chunk.js.map",
+    "index.html": "/react-bitcoin-dashboard-context-hooks/index.html",
+    "precache-manifest.89e2203a20ac325d4374a4de1251f44d.js": "/react-bitcoin-dashboard-context-hooks/precache-manifest.89e2203a20ac325d4374a4de1251f44d.js",
+    "service-worker.js": "/react-bitcoin-dashboard-context-hooks/service-worker.js",
+    "static/css/main.7c5b2be1.chunk.css.map": "/react-bitcoin-dashboard-context-hooks/static/css/main.7c5b2be1.chunk.css.map",
+    "static/js/2.9511cdfe.chunk.js.LICENSE.txt": "/react-bitcoin-dashboard-context-hooks/static/js/2.9511cdfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f54eaf14.js",
+    "static/js/2.9511cdfe.chunk.js",
+    "static/css/main.7c5b2be1.chunk.css",
+    "static/js/main.2449271f.chunk.js"
+  ]
+}
