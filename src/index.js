@@ -1,12 +1,18 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './index.css'
 import App from './containers/App'
 import * as serviceWorker from './serviceWorker'
+//Import context
+import { NotificactionContextProvider } from './context/NotificationContextProvider.js'
+import { PricesContextProvider } from './context/PricesContextProvider.js'
 
 ReactDOM.render(
 	<React.StrictMode>
-		<App />
+		<NotificactionContextProvider>
+			<PricesContextProvider>
+				<App />
+			</PricesContextProvider>
+		</NotificactionContextProvider>
 	</React.StrictMode>,
 	document.getElementById('root')
 )
